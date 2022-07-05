@@ -9,5 +9,5 @@
 -   🌱 I’m currently learning  electronics engineering
 - ⚙️ I daily use: `.py`, `.c`, `.cpp`
 - 💞️ I’m looking to **collaborate** on anything robotics
-- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- 💬 Contact me about **Motion Planning**, **Control Systems**, **Image Processing**, **Manipulators**, **Embedded Systems**
 
