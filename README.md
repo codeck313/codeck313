@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**codeck313/codeck313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> Hi there, welcome to my humble abode 👋</h3>
 
-Here are some ideas to get you started:
+## BIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently studying in **Bengaluru**
+-  👀 I’m interested in robotics
+- ⚡ I blog @ <a href="https://thelowesttype.github.io/" target="_blank">thelowesttype</a>
+-   🌱 I’m currently learning  electronics engineering
+- ⚙️ I daily use: `.py`, `.c`, `.cpp`
+- 💞️ I’m looking to **collaborate** on anything robotics
+- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
+
