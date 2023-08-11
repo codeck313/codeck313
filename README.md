@@ -3,11 +3,10 @@
 
 ## BIO
 
-- 🏢 I'm currently studying in **Bengaluru**
+- 🏢 I'm currently working at **IISc**
 -  👀 I’m interested in robotics
 - ⚡ I blog @ <a href="https://thelowesttype.github.io/" target="_blank">thelowesttype</a>
--   🌱 I’m currently learning  electronics engineering
 - ⚙️ I daily use: `.py`, `.c`, `.cpp`
 - 💞️ I’m looking to **collaborate** on anything robotics
-- 💬 Contact me about **Motion Planning**, **Control Systems**, **Image Processing**, **Manipulators**, **Embedded Systems**
+- 💬 Contact me about **Motion Planning**, **SLAM**, **Control Systems**, **Image Processing**, **Manipulators**, **Embedded Systems**
 
